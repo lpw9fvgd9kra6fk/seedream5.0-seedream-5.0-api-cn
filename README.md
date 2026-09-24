@@ -2,7 +2,7 @@
 
 > 按量计费，$1 起充，OpenAI 兼容接口。 **1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-2cc82c) · [实时价格](https://go.apimart.ai/k-c5c674) · [获取 API Key](https://go.apimart.ai/k-616e2b)**
 
 ## 价格（快照 2026-09-24）
 
